@@ -9,5 +9,5 @@ Universidad Nacional de Colombia
 
 ## Contenido
 - [Información general](/docs/informacion_general.md)
-- [Contenido temático](/docs/contenido_temático.md)
+- [Contenido temático](/docs/contenido_tematico.md)
 

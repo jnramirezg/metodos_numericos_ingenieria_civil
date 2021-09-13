@@ -11,4 +11,5 @@ Universidad Nacional de Colombia
 - [Información general](/docs/informacion_general.md)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Cronograma y evaluación 2021-2s](/docs/cronograma_evaluacion_2021-2s.md)
+- [Referencias bibliográficas curso](/docs/referencias_curso.md)
 

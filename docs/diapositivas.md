@@ -1,5 +1,5 @@
 # Diapositivas de clase
-[Programa calendario 2021-2s](/diapositivas/0-Programa calendario 2021-2s.pdf)
+[Programa calendario 2021-2s](/diapositivas/0-Programa_calendario_2021-2s.pdf)
 - Unidad 1
 - Unidad 2
 - Unidad 3

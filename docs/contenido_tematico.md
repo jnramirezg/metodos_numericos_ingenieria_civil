@@ -1,5 +1,5 @@
-Unidad 1: Repaso de Python
-(1 semana)
+# Contenido Temático
+Unidad 1: Repaso de Python (1 semana)
 1.1. Tipos de datos
 1.2. Listas
 1.3. Estructuras de control

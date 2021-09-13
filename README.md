@@ -12,6 +12,7 @@ Universidad Nacional de Colombia
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Cronograma y evaluación 2021-2s](/docs/cronograma_evaluacion_2021-2s.md)
 - [Diapositivas de clase](/docs/diapositivas.md)
+- [Calificaciones 2021-2s](/docs/diapositivas.md)
 - [Talleres 2021-2s](/docs/talleres_2021-2s.md)
 - [Trabajo final 2021-2s](/docs/trabajo_final_2021-2s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)

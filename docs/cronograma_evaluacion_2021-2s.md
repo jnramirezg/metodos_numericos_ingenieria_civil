@@ -20,10 +20,10 @@ Según la [Res. 529 de 2021 de Rectoría](https://www.legal.unal.edu.co/rlunal/h
 - Integración
 - Ecuaciones Diferenciales Ordinarias
 ## Fechas y ponderación de las actividades evaluativas
-- **Examen 1:** xxxxxxx, xx de noviembre de 2021
-- **Examen 2:** xxxxxxx, xx de diciembre de 2021
-- **Examen 3:** xxxxxxx, xx de enero de 2022
-- **Taller 1:** xxxxxxx, xx de noviembre de 2021
-- **Taller 2:** xxxxxxx, xx de diciembre de 2021
-- **Taller 3:** xxxxxxx, xx de enero de 2022
-- **Trabajo final:** xxxxxxx, xx de febrero de 2022
+- **Examen 1:** xxxxxxx, xx de noviembre de 2021 (15%)
+- **Examen 2:** xxxxxxx, xx de diciembre de 2021 (15%)
+- **Examen 3:** xxxxxxx, xx de enero de 2022 (15%)
+- **Taller 1:** xxxxxxx, xx de noviembre de 2021 (25%/3)
+- **Taller 2:** xxxxxxx, xx de diciembre de 2021 (25%/3)
+- **Taller 3:** xxxxxxx, xx de enero de 2022 (25%/3)
+- **Trabajo final:** xxxxxxx, xx de febrero de 2022 (30%)

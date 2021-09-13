@@ -42,7 +42,7 @@ El curso se desarrollará con aspectos pedagógicos como:
 - Diapositivas con el contenido necesario y enlaces al explorador.
 
 ### Lenguaje de programación
-Python\
+**Python**\
 Se recomienda revisar:
 - IDE: [Spyder](https://www.spyder-ide.org/)
 - Entorno informático: [Jupyter](https://jupyter.org/)

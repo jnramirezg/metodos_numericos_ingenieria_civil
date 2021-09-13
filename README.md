@@ -39,3 +39,19 @@ La asignatura hace parte de la agrupación optativa de Herramientas Informática
 ### Objetivos
 - Introducir la técnica básica del cálculo numérico y explicar su objetivo fundamental encontrar soluciones aproximadas a problemas complejos utilizando procedimientos matemáticos que se pueden programar fácilmente con un computador.
 - Hacer énfasis en la programación de computadores como una herramienta para obtener soluciones numéricas de problemas cuya solución analítica es extremadamente compleja.
+
+### Metodología
+El curso se desarrollará con aspectos pedagógicos como:
+- Clases presenciales en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes.
+- Talleres prácticos de programación para aplicar los conocimientos adquiridos.
+- Presentación y sustentación de los proyectos realizados por los estudiantes.
+- Trabajo dirigido fuera de clase, individual o grupal, para afianzar los conceptos adquiridos en clase.
+- Exámenes con preguntas teóricas, preguntas conceptuales, demostraciones y ejercicios numéricos.
+- Diapositivas con el contenido necesario y enlaces al explorador.
+
+### Lenguaje de programación
+Python\
+Se recomienda revisar:
+- IDE: [Spyder](https://www.spyder-ide.org/)
+- Entorno informático: [Jupyter](https://jupyter.org/)
+

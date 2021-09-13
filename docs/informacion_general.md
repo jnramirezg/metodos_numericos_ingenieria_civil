@@ -26,9 +26,9 @@ La asignatura hace parte de la agrupación optativa de Herramientas Informática
 - Aplicaciones de Elementos Finitos 2
 ## ¿Qué significa 1 crédito académico?
 “Un crédito es la unidad que mide el tiempo que el estudiante requiere para cumplir a cabalidad los objetivos de formación de cada asignatura y equivale a 48 horas de trabajo del estudiante Éste incluirá las actividades presenciales que se desarrollan en las aulas con el profesor las actividades con orientación docente realizadas fuera de las aulas y las actividades autónomas llevadas a cabo por el estudiante, además de prácticas, preparación de exámenes y todas aquellas que sean necesarias para alcanzar las metas de aprendizaje" ([art. 6](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34245#6) Acuerdo 033 de 2007 del CSU)
-- Actividad presencial: 4 horas/semana (64 horas/semestre)
-- Actividad Autónoma: 5 horas/semana (80 horas/semestre), es decir, el 56% del tiemoo total
-- Actidad total: 9 horas/semana (144 horas/semestre = 48 horas/crédito/semestre * 3 créditos)
+- **Actividad presencial:** 4 horas/semana (64 horas/semestre)
+- **Actividad Autónoma:** 5 horas/semana (80 horas/semestre), es decir, el 56% del tiemoo total
+- **Actidad total:** 9 horas/semana (144 horas/semestre = 48 horas/crédito/semestre * 3 créditos)
 
 ## Objetivos
 - Introducir la técnica básica del cálculo numérico y explicar su objetivo fundamental encontrar soluciones aproximadas a problemas complejos utilizando procedimientos matemáticos que se pueden programar fácilmente con un computador.

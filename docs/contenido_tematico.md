@@ -1,4 +1,6 @@
 # Contenido Temático
+Acorde con la ficha aprobada por la Facultad: [ver aquí](/docs/ficha_asignatura_facultad.pdf)
+
 ## Unidad 1: Sistemas de ecuaciones lineales (2 semanas)
 1. Eliminación Gauss-Jordan
 2. Eliminación con sustitución

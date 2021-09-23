@@ -1,7 +1,7 @@
 # Cronograma y evaluación 2021-2s
 ## Horario de clases
-- Lunes 14:00 - 16:00 C412
-- Martes 14:00 - 16:00 C306
+- Lunes 18:00 - 20:00 C412
+- Miércoles 16:00 - 18:00 C306
 ## Calendario académico 2021-2s
 - **Inicio:** semana 4 a 9 de octubre de 2021
 - **Vacaciones:** diciembre 20 de 2021 a enero 7 de 2022

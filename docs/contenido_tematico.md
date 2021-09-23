@@ -1,25 +1,18 @@
 # Contenido Temático
-## Unidad 1: Repaso de Python (1 semana)
-1. Tipos de datos
-2. Listas
-3. Estructuras de control
-4. Funciones
-5. Tuplas, conjuntos y diccionarios
-6. Librerías científicas
-## Unidad 2: Sistemas de ecuaciones lineales (2 semana)
+## Unidad 1: Sistemas de ecuaciones lineales (2 semanas)
 1. Eliminación Gauss-Jordan
 2. Eliminación con sustitución
 3. Descomposición LU de Cholesky
 4. Mejoramiento iterativo solución de ec. lineales
 5. Matrices ralas
-## Unidad 3: Interpolación (2 semanas)
+## Unidad 2: Interpolación (2 semanas)
 1. Interpolación por los vecinos más cercanos
 2. Interpolación lineal
 3. Interpolación con la fórmula de Lagrange
 4. Interpolación polinomial (cuadrática y cúbica) 
 5. Interpolación con splines
 6. Interpolación en varias dimensiones
-## Unidad 4: Minimización (2 semanas)
+## Unidad 3: Optimización (2 semanas)
 1. Minimización unidimensional
 - Acotación de funciones
 - Método de la interpolación parabólica
@@ -30,26 +23,11 @@
 - Método de Newton-Raphson
 - Método de Levenberg-Marquardt
 3. Regresión no lineal de Gauss-Newton
-## Unidad 5: Raíces y sistemas no lineales (2 semanas)
+## Unidad 4: Raíces y sistemas no lineales (2 semanas)
 1. Método de la acotación y de la bisección
 2. Método de Newton-Raphson
 3. Método de Newton-Raphson para la solución de sistemas de ecuaciones no lineales
-## Unidad 4: Minimización (2 semanas)
-1. Minimización unidimensional
-- Acotación de funciones
-- Método de la interpolación parabólica
-- Método de la búsqueda áurea
-- Método de Newton-Raphson
-2. Minimización en varias dimensiones
-- Método del descenso más empinado
-- Método de Newton-Raphson
-- Método de Levenberg-Marquardt
-3. Regresión no lineal de Gauss-Newton
-## Unidad 5: Raíces y sistemas no lineales (2 semanas)
-1. Método de la acotación y de la bisección
-2. Método de Newton-Raphson
-3. Método de Newton-Raphson para la solución de sistemas de ecuaciones no lineales
-## Unidad 6: Integración (2 semanas)
+## Unidad 5: Integración (2 semanas)
 1. Métodos de Newton-Cotes
 - Método de rectángulos
 - Método de trapecios
@@ -58,14 +36,14 @@
 2. Extrapolaciones de Richardson
 3. Integración de Romberg
 4. Integración con cuadraturas de Gauss-Legendre
-## Unidad 7: Ecuaciones Diferenciales Ordinarias (1 semana)
+## Unidad 6: Ecuaciones Diferenciales Ordinarias (1 semana)
 1. Método de las diferencias finitas
 2. Método de Runge-Kutta
 3. Método de Euler
 4. Método de Heun
 5. Ecuaciones de Lotka-Volterra
 6. Ecuación de movimiento de péndulo doble
-## Unidad 8: Números aleatorios (2 semanas)
+## Unidad 7: Números aleatorios (2 semanas)
 1. Generación de números pseudo aleatorios uniformemente distribuidos
 - Método del generador congruencial lineal (método de Park y Miller)
 - Método de Mesenne Twister

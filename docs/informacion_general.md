@@ -36,9 +36,7 @@ La asignatura hace parte de la agrupación optativa de Herramientas Informática
 
 ## Metodología
 El curso se desarrollará con aspectos pedagógicos como:
-- Clases presenciales en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes.
-- Talleres prácticos de programación para aplicar los conocimientos adquiridos.
-- Presentación y sustentación de los proyectos realizados por los estudiantes.
+- Clases sincrónicas en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes.
 - Trabajo dirigido fuera de clase, individual o grupal, para afianzar los conceptos adquiridos en clase.
 - Exámenes con preguntas teóricas, preguntas conceptuales, demostraciones y ejercicios numéricos.
 - Diapositivas con el contenido necesario y enlaces al explorador.

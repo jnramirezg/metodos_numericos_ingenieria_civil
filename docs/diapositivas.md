@@ -1,4 +1,4 @@
-# Diapositivas de clase
+# Material de clase
 - [Programa calendario 2021-2s](/diapositivas/0-Programa_calendario_2021-2s.pdf)
 - Unidad 1
 - Unidad 2

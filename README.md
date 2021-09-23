@@ -14,6 +14,5 @@ Universidad Nacional de Colombia
 - [Material de clase](/docs/diapositivas.md)
 - [Calificaciones 2021-2s](/docs/calificacion_2021-2s.md)
 - [Talleres 2021-2s](/docs/talleres_2021-2s.md)
-- [Trabajo final 2021-2s](/docs/trabajo_final_2021-2s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
 

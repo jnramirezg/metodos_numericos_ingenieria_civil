@@ -24,7 +24,7 @@ Según la [Res. 529 de 2021 de Rectoría](https://www.legal.unal.edu.co/rlunal/h
 - **Taller 1:** xxxxxxx, xx de diciembre de 2021 (35%)
 - **Taller 2:** xxxxxxx, xx de febrero de 2022 (35%)\
 
-Ver [Archivo del cronograma][/docs/Cronograma_y_evaluación_2021-2s.pdf]
+Ver [Archivo del cronograma](/docs/Cronograma_y_evaluación_2021-2s.pdf])
 ## Sobre la evaluación
 - Los exámenes tendrán una duración máxima de 30 minutos con preguntas conceptuales, de demostración o con enfoque aplicado a programación. Constarán de mínimo 3 preguntas. Para ellos, el docente previamente podrá autorizar el uso de una hoja tamaño carta por un solo lado con ecuaciones (no demostraciones), comandos de Python, pseudocódigo y palabras claves (no párrafos). Serán individuales.
 - Los talleres se enfocarán en aplicaciones de programación en Python de los métodos enseñados en clase. Serán individuales 

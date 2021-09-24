@@ -3,10 +3,13 @@ En esta pestaña estará disponible todo el material de clase actualizados.
 
 ¿Cómo visualizar los Notebooks de Jupyter?
 
-## [Programa calendario 2021-2s](/diapositivas/0-programa_calendario_2021-2s.pdf)
+## [0- Programa calendario 2021-2s](/diapositivas/0-programa_calendario_2021-2s.pdf)
 ## Unidad 1: sistemas de ecuaciones lineales
 ### Apuntes
+- [Jupyter: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.ipynb)
+- [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.ipynb)
 ### Código
+-
 ## Unidad 2
 ## Unidad 3
 ## Unidad 4

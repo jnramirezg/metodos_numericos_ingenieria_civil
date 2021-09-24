@@ -1,7 +1,7 @@
 # Material de clase
 En esta pestaña estará disponible todo el material de clase actualizados.
 
-¿Cómo visualizar los Notebooks de Jupyter?
+¿Cómo visualizar los Notebooks de Jupyter?\
 Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab.
 
 ## [0- Programa calendario 2021-2s](/diapositivas/0-programa_calendario_2021-2s.pdf)

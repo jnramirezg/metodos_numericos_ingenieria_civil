@@ -7,7 +7,7 @@ En esta pestaña estará disponible todo el material de clase actualizados.
 ## Unidad 1: sistemas de ecuaciones lineales
 ### Apuntes
 - [Jupyter: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.ipynb)
-- [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.ipynb)
+- [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.pdf)
 ### Código
 -
 ## Unidad 2

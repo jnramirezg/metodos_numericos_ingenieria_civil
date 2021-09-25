@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Solución sistema de ecuaciones lineales 2 x 2
 # %%Información
 '''
@@ -61,4 +62,4 @@ a, b, c, d, e, f = -2.499999999999999/5, 1, 1.0000000000000001, -1/2, 1, 1
 print('\nEjemplo 4:')
 print(sol_2x2_mejorado(a, b, c, d, e, f))
 
-# Fin.
+# Fin del programa.

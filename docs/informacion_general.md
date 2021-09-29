@@ -16,9 +16,9 @@
 - Mecánica Tensorial
 ## Comunicación con el docente y solución de dudas
 - La comunicación extraclase con el docente será únicamente mediante correo institucional
-- El correo deberá traer como asunto "MÉTODOS_NUMÉRICOS-(escribir_asunto)
-- No se atenderán dudas a través de otros medios como WhatsApp
-- Solo serán tenidos en cuenta los correos recibidos a través de cuentas institucionales unal.edu.co
+- El correo deberá traer como asunto "MÉTODOS_NUMÉRICOS-(escribir_asunto).
+- No se atenderán dudas a través de otros medios como WhatsApp.
+- Solo serán tenidos en cuenta los correos recibidos a través de cuentas institucionales unal.edu.co.
 - Todo el material de clase estará disponible en este repositorio.
 ## Agrupación curricular
 La asignatura hace parte de la agrupación optativa de Herramientas Informáticas y Métodos Numéricos, junto a:
@@ -32,14 +32,14 @@ La asignatura hace parte de la agrupación optativa de Herramientas Informática
 
 ## Objetivos
 - Introducir la técnica básica del cálculo numérico y explicar su objetivo fundamental encontrar soluciones aproximadas a problemas complejos utilizando procedimientos matemáticos que se pueden programar fácilmente con un computador.
-- Hacer énfasis en la programación de computadores como una herramienta para obtener soluciones numéricas de problemas cuya solución analítica es extremadamente compleja.
+- Hacer énfasis en la programación de computadores como una herramienta para obtener soluciones numéricas de problemas cuya solución analítica es extremadamente compleja. En particular, con un enfoque en Python 3.0.
 
 ## Metodología
 El curso se desarrollará con aspectos pedagógicos como:
-- Clases sincrónicas en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes.
+- Clases sincrónicas en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes. Durante este semestre, y por disposición del departamento de Ingeniería Civil, las clases serán virtuales.
 - Trabajo dirigido fuera de clase, individual o grupal, para afianzar los conceptos adquiridos en clase.
 - Exámenes con preguntas teóricas, preguntas conceptuales, demostraciones y ejercicios numéricos.
-- Diapositivas con el contenido necesario y enlaces al explorador.
+- Diapositivas con el contenido necesario y enlaces al explorador. En particular, se usará el entorno informático [Jupyter](https://jupyter.org/).
 
 ## Lenguaje de programación
 ### **Python 3**

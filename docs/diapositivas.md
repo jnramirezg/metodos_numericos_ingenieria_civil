@@ -11,7 +11,8 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab.
 - [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.pdf)
 ### Código
 - [1-Solución de sistemas de ecuaciones lineales 2x2](/codigo/1-solucion_sistemas_de_ecuaciones_lineales_2x2.py)
-## Vídeos de clase
+### Vídeos de clase
+
 ## Unidad 2
 ## Unidad 3
 ## Unidad 4

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Solución de sistemas de ecuaciones por la regla de Cramer.
+# Solución de sistemas de ecuaciones lineales por la regla de Cramer.
 # %%Información
 '''
 Universidad Nacional de Colombia
@@ -7,7 +7,10 @@ Facultad de Ingeniería y Arquitectura
 Métodos Numéricos Aplicados a la Ingeniería Civil
 
 Fecha de creación: 2021-09-25
-Editor: Juan Nicolás Ramírez Giraldo (jnramirezg@unal.edu.co)
+Autor: Juan Nicolás Ramírez Giraldo (jnramirezg@unal.edu.co)
+
+"Cum cogitaveris quot te antecedant, respice quot sequantur" Séneca
+
 
 Referencias:
 1. https://www.mycompiler.io/view/IVBmA7d

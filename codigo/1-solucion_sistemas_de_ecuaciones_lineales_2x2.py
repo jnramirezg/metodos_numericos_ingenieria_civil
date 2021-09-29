@@ -9,6 +9,9 @@ Métodos Numéricos Aplicados a la Ingeniería Civil
 Fecha de creación: 2021-09-24
 Autor: Juan Nicolás Ramírez Giraldo (jnramirezg@unal.edu.co)
 
+"Cum cogitaveris quot te antecedant, respice quot sequantur" Séneca
+
+
 Referencias:
 1. Chapra, S. C. & Canale, R. P. (2015). Métodos Numéricos para ingenieros 
    (7ª ed.). México D.F.: Mc Graw Hill.

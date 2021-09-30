@@ -17,7 +17,7 @@ Según la [Res. 529 de 2021 de Rectoría](https://www.legal.unal.edu.co/rlunal/h
 - Interpolación
 - Raíces y sistemas no lineales
 ### **Examen 2 y taller 2:**
-- Minimización
+- Optimización
 - Integración
 - Ecuaciones Diferenciales Ordinarias
 ## Fechas y ponderación de las actividades evaluativas

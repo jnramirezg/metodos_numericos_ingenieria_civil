@@ -15,15 +15,15 @@
 - Ecuaciones Diferenciales
 - Mecánica Tensorial
 ## Comunicación con el docente y solución de dudas
-- La comunicación extraclase con el docente será únicamente mediante correo institucional
+- La comunicación extraclase con el docente será únicamente mediante correo institucional.
 - El correo deberá traer como asunto "MÉTODOS_NUMÉRICOS-(escribir_asunto).
-- No se atenderán dudas a través de otros medios como WhatsApp.
-- Solo serán tenidos en cuenta los correos recibidos a través de cuentas institucionales unal.edu.co.
+- No se atenderán dudas a través de otros medios como _WhatsApp_.
+- Solo serán tenidos en cuenta los correos recibidos a través de _cuentas institucionales_ unal.edu.co.
 - Todo el material de clase estará disponible en este repositorio.
 ## Agrupación curricular
 La asignatura hace parte de la agrupación optativa de Herramientas Informáticas y Métodos Numéricos, junto a:
-- Aplicaciones de Elementos Finitos 1
-- Aplicaciones de Elementos Finitos 2
+- [Aplicaciones de Elementos Finitos 1](https://github.com/diegoandresalvarez/elementosfinitos)
+- [Aplicaciones de Elementos Finitos 2](https://github.com/diegoandresalvarez/elementosfinitos)
 ## ¿Qué significa 1 crédito académico?
 “Un crédito es la unidad que mide el tiempo que el estudiante requiere para cumplir a cabalidad los objetivos de formación de cada asignatura y equivale a 48 horas de trabajo del estudiante Éste incluirá las actividades presenciales que se desarrollan en las aulas con el profesor las actividades con orientación docente realizadas fuera de las aulas y las actividades autónomas llevadas a cabo por el estudiante, además de prácticas, preparación de exámenes y todas aquellas que sean necesarias para alcanzar las metas de aprendizaje" ([art. 6](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34245#6) Acuerdo 033 de 2007 del CSU)
 - **Actividad presencial:** 4 horas/semana (64 horas/semestre)

@@ -1,7 +1,7 @@
 # Cronograma y evaluación 2021-2s
 ## Horario de clases
 - Lunes 18:00 - 20:00
-- Miércoles 16:00 - 18:00 C306
+- Miércoles 16:00 - 18:00
 
 **Enlace a la videollamada: https://meet.google.com/but-dfbb-tme**
 

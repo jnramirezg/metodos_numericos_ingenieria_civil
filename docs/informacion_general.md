@@ -3,8 +3,8 @@
 - [Plan de estudios](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=92461)
 - [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
 ## Prerequisitos: 
-- 4100611 Mecánica de Sólidos
-- 4200686 Programación Computadores
+- 4100611 [Mecánica de Sólidos](https://github.com/diegoandresalvarez/solidos)
+- 4200686 [Programación Computadores](https://github.com/diegoandresalvarez/programaciondecomputadores)
 ## Conocimientos previos:
 - Cálculo Diferencial
 - Cálculo Integral

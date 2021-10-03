@@ -37,7 +37,7 @@ La asignatura hace parte de la agrupación optativa de Herramientas Informática
 ## Metodología
 El curso se desarrollará con aspectos pedagógicos como:
 - Clases sincrónicas en las que se explican los conceptos más relevantes en el entorno de salón de clase con la libre participación de los estudiantes. Durante este semestre, y por disposición del departamento de Ingeniería Civil, las clases serán virtuales.
-- Trabajo dirigido fuera de clase, individual o grupal, para afianzar los conceptos adquiridos en clase.
+- Talleres prácticos de programación para aplicar los conocimientos adquiridos.
 - Exámenes con preguntas teóricas, preguntas conceptuales, demostraciones y ejercicios numéricos.
 - Diapositivas con el contenido necesario y enlaces al explorador. En particular, se usará el entorno informático [Jupyter](https://jupyter.org/).
 

@@ -2,11 +2,12 @@
 Acorde con la ficha aprobada por la Facultad: [ver aquí](/docs/ficha_asignatura_facultad.pdf)
 
 ## Unidad 1: Sistemas de ecuaciones lineales (2 semanas)
-1. Eliminación Gauss-Jordan
-2. Eliminación con sustitución
-3. Descomposición LU de Cholesky
-4. Mejoramiento iterativo solución de ec. lineales
-5. Matrices ralas
+1. Matrices en Python
+2. Formas básicas de solución: gráfica y regla de Cramer
+3. Métodos de Gauss y Gauss-Jordan
+4. Descomposiciones LU y LU de Cholesky
+5. Métodos iterativos
+6. Soluciones de sistemas en Python
 ## Unidad 2: Interpolación (2 semanas)
 1. Interpolación por los vecinos más cercanos
 2. Interpolación lineal

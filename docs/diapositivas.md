@@ -1,5 +1,5 @@
 # Material de clase
-En esta pestaña estará disponible todo el material de clase actualizados.
+En esta pestaña estará disponible todo el material de clase actualizado.
 
 ¿Cómo visualizar los Notebooks de Jupyter?\
 Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. También a través del [nbviewer](https://nbviewer.jupyter.org/)

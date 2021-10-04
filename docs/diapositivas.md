@@ -21,6 +21,8 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - [8-sol_descomposicion_LU.py](/8-sol_descomposicion_LU.py)
 - [9-costo_computacional_metodos.py](/codigo/9-costo_computacional_metodos.py)
 - [10-Cholesky.py](/codigo/10-Cholesky.py)
+### Preguntas de clase
+-
 
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/open?id=1HGuBubpRIhqdA_ujJW5pufNg8c8JgTjl&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)

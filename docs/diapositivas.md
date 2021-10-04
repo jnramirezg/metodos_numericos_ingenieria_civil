@@ -2,14 +2,13 @@
 En esta pestaña estará disponible todo el material de clase actualizados.
 
 ¿Cómo visualizar los Notebooks de Jupyter?\
-Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab.
+Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. También a través del nbviewer
 
 ## [0- Programa calendario 2021-2s](/diapositivas/0-programa_calendario_2021-2s.pdf)
 ## Unidad 1: sistemas de ecuaciones lineales
 ### Apuntes
 #### Noteboooks
-- [Jupyter: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.ipynb)
-#### Archivos pdf
+- Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](/diapositivas/1_1-matrices_operaciones.ipynb))
 - [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.pdf)
 ### Código
 - [1-Solución de sistemas de ecuaciones lineales 2x2.py](/codigo/1-solucion_sistemas_de_ecuaciones_lineales_2x2.py)

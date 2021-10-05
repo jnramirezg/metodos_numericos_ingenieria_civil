@@ -21,10 +21,10 @@ Según la [Res. 529 de 2021 de Rectoría](https://www.legal.unal.edu.co/rlunal/h
 - Integración
 - Ecuaciones Diferenciales Ordinarias
 ## Fechas y ponderación de las actividades evaluativas
-- **Examen 1:** xxxxxxx, xx de noviembre de 2021 (15%)
-- **Examen 2:** xxxxxxx, xx de enero de 2022 (15%)
-- **Taller 1:** xxxxxxx, xx de diciembre de 2021 (35%)
-- **Taller 2:** xxxxxxx, xx de febrero de 2022 (35%)
+- **Examen 1:** lunes, 29 de noviembre de 2021 (15%)
+- **Examen 2:** lunes, 31 de enero de 2022 (15%)
+- **Taller 1:** viernes, 17 de diciembre de 2021 a las 23:59h (35%)
+- **Taller 2:** miércoles, 09 de febrero de 2022 a las 23:59h (35%)
 
 Ver [Archivo del cronograma](/docs/Cronograma_y_evaluación_2021-2s.pdf)
 ## Sobre la evaluación

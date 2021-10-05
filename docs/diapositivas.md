@@ -8,8 +8,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ## Unidad 1: sistemas de ecuaciones lineales
 ### Apuntes
 #### Noteboooks
-- Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](/diapositivas/1_1-matrices_operaciones.ipynb))
-- [PDF: Matrices, modificación y operaciones](/diapositivas/1_1-matrices_operaciones.pdf)
+- Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](/diapositivas/1_1-matrices_operaciones.ipynb)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
+
+
 ### Código
 - [1-Solución de sistemas de ecuaciones lineales 2x2.py](/codigo/01-solucion_sistemas_de_ecuaciones_lineales_2x2.py)
 - [2-calculo_determinante_f_recursiva.py](/codigo/02-calculo_determinante_f_recursiva.py)

@@ -9,7 +9,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ### Apuntes
 #### Noteboooks
 - Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](/diapositivas/1_1-matrices_operaciones.ipynb)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
-
+- Jupyter: Sistemas de ecuaciones pequeños
 
 ### Código
 - [01-grafica_basica.py](/codigo/01-grafica_basica.py)

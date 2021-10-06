@@ -14,9 +14,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ### Código
 - [01-grafica_basica.py](/codigo/01-grafica_basica.py)
 - [02-Solución de sistemas de ecuaciones lineales 2x2.py](/codigo/02-solucion_sistemas_de_ecuaciones_lineales_2x2.py)
-- [2-calculo_determinante_f_recursiva.py](/codigo/02-calculo_determinante_f_recursiva.py)
-- [3-costo_computacional_teorema_laplace.py](/codigo/03-costo_computacional_teorema_laplace.py)
-- [4-regla_cramer.py](/codigo/04-regla_cramer.py)
+- [03-calculo_determinante_f_recursiva.py](/codigo/03-calculo_determinante_f_recursiva.py)
+- [04-costo_computacional_teorema_laplace.py](/codigo/04-costo_computacional_teorema_laplace.py)
+- [05-regla_cramer.py](/codigo/05-regla_cramer.py)
 - [5-gauss_simple.py](/codigo/05-gauss_simple.py)
 - [6-gauss_jordan.py](/codigo/06-gauss_jordan.py)
 - [7-descomposicion_LU.py](/codigo/07-descomposicion_LU.py)

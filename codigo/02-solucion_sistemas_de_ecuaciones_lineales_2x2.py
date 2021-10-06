@@ -30,7 +30,7 @@ def sol_2x2_mejorado(a, b, c, d, e, f):
         dx + ey = f
     '''
     if (a*e - b*d) == 0:
-        if (-b*f + c*e) and (a*f - c*d):
+        if (-b*f + c*e) == 0 and (a*f - c*d) == 0:
             solucion = 'Infinitas soluciones'
         else:
             solucion = 'No tiene solución'

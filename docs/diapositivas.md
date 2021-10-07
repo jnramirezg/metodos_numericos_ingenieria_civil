@@ -11,6 +11,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](https://drive.google.com/open?id=1iVhj18i_A4gfeTm_AvHAtrfNfdYMypxx&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
 - Jupyter: Sistemas de ecuaciones pequeños
 
+#### Archivos adicionales
+- Comparación operaciones básicas Numpy y Sympy ([ver](/diapositivas/1_1_1_comparacion_numpy_sympy.pdf))
+
 ### Código
 - [01-grafica_basica.py](/codigo/01-grafica_basica.py)
 - [02-Solución de sistemas de ecuaciones lineales 2x2.py](/codigo/02-solucion_sistemas_de_ecuaciones_lineales_2x2.py)

@@ -31,9 +31,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/file/d/1LPwNGE2ysVUh7exD6VE34jKmXAEzXphq/view?usp=sharing)
-- [Sesión 2: ](https://drive.google.com/open?id=1HGuBubpRIhqdA_ujJW5pufNg8c8JgTjl&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)
-- [Sesión 3: ](https://drive.google.com/open?id=1HGuBubpRIhqdA_ujJW5pufNg8c8JgTjl&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)
-- [Sesión 4: ](https://drive.google.com/open?id=1HGuBubpRIhqdA_ujJW5pufNg8c8JgTjl&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)
+- [Sesión 2: ]()
+- [Sesión 3: ]()
+- [Sesión 4: ]()
 ## Unidad 2
 ## Unidad 3
 ## Unidad 4

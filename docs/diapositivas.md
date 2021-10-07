@@ -8,7 +8,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ## Unidad 1: sistemas de ecuaciones lineales
 ### Apuntes
 #### Noteboooks
-- Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](/diapositivas/1_1-matrices_operaciones.ipynb)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
+- Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](https://drive.google.com/open?id=1iVhj18i_A4gfeTm_AvHAtrfNfdYMypxx&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
 - Jupyter: Sistemas de ecuaciones pequeños
 
 ### Código
@@ -17,12 +17,12 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - [03-calculo_determinante_f_recursiva.py](/codigo/03-calculo_determinante_f_recursiva.py)
 - [04-costo_computacional_teorema_laplace.py](/codigo/04-costo_computacional_teorema_laplace.py)
 - [05-regla_cramer.py](/codigo/05-regla_cramer.py)
-- [5-gauss_simple.py](/codigo/05-gauss_simple.py)
-- [6-gauss_jordan.py](/codigo/06-gauss_jordan.py)
-- [7-descomposicion_LU.py](/codigo/07-descomposicion_LU.py)
-- [8-sol_descomposicion_LU.py](/08-sol_descomposicion_LU.py)
-- [9-costo_computacional_metodos.py](/codigo/09-costo_computacional_metodos.py)
-- [10-Cholesky.py](/codigo/10-Cholesky.py)
+- [06-gauss_simple.py](/codigo/06-gauss_simple.py)
+- [07-gauss_jordan.py](/codigo/07-gauss_jordan.py)
+- [08-descomposicion_LU.py](/codigo/08-descomposicion_LU.py)
+- [09-sol_descomposicion_LU.py](/09-sol_descomposicion_LU.py)
+- [10-costo_computacional_metodos.py](/codigo/10-costo_computacional_metodos.py)
+- [11-Cholesky.py](/codigo/11-Cholesky.py)
 ### Preguntas de clase
 -
 

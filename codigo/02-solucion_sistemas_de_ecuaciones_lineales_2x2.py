@@ -30,7 +30,7 @@ def sol_2x2_mejorado(a, b, c, d, e, f):
         dx + ey = f
     '''
     if (a*e - b*d) == 0:
-        if (-b*f + c*e) and (a*f - c*d):
+        if (-b*f + c*e) == 0 and (a*f - c*d) == 0:
             solucion = 'Infinitas soluciones'
         else:
             solucion = 'No tiene solución'
@@ -46,23 +46,47 @@ def sol_2x2_mejorado(a, b, c, d, e, f):
 
 # Ejemplo 1
 a, b, c, d, e, f = 3, 2, 18, -1, 2, 2
-print('\nEjemplo 4:')
+print('\nEjemplo 1:')
 print(sol_2x2_mejorado(a, b, c, d, e, f))
 
 # Ejemplo 2
 a, b, c, d, e, f = -1, 2, 2, -1, 2, 1
-print('\nEjemplo 4:')
+print('\nEjemplo 2:')
 print(sol_2x2_mejorado(a, b, c, d, e, f))
 
 # Ejemplo 3
 a, b, c, d, e, f = -1, 2, 2, -2, 4, 4
-print('\nEjemplo 4:')
+print('\nEjemplo 3:')
 print(sol_2x2_mejorado(a, b, c, d, e, f))
 
-# Ejemplo 4
+# Ejemplo 4.1
 # Si se ponen nueves o ceros se puede obtener cualquiera de los 3 resultados.
 a, b, c, d, e, f = -2.499999999999999/5, 1, 1.0000000000000001, -1/2, 1, 1
-print('\nEjemplo 4:')
+print('\nEjemplo 4.1:')
+print(sol_2x2_mejorado(a, b, c, d, e, f))
+
+# Ejemplo 4.2
+# Agregando un 9
+a, b, c, d, e, f = -2.4999999999999999/5, 1, 1.0000000000000001, -1/2, 1, 1
+print('\nEjemplo 4.2:')
+print(sol_2x2_mejorado(a, b, c, d, e, f))
+
+# Ejemplo 4.3
+# Quitando un cero.
+a, b, c, d, e, f = -2.499999999999999/5, 1, 1.000000000000001, -1/2, 1, 1
+print('\nEjemplo 4.3:')
+print(sol_2x2_mejorado(a, b, c, d, e, f))
+
+# Ejemplo 4.4
+# Quitando dos ceros.
+a, b, c, d, e, f = -2.499999999999999/5, 1, 1.00000000000001, -1/2, 1, 1
+print('\nEjemplo 4.4:')
+print(sol_2x2_mejorado(a, b, c, d, e, f))
+
+# Ejemplo 4.5
+# Agregrando un nueve y quitando un cero.
+a, b, c, d, e, f = -2.4999999999999999/5, 1, 1.000000000000001, -1/2, 1, 1
+print('\nEjemplo 4.5:')
 print(sol_2x2_mejorado(a, b, c, d, e, f))
 
 # Fin del programa.

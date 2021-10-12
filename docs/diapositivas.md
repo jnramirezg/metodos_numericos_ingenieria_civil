@@ -33,7 +33,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/file/d/1LPwNGE2ysVUh7exD6VE34jKmXAEzXphq/view?usp=sharing)
 - [Sesión 2: ]
-- [Sesión 3: ]
+- [Sesión 3: Método gráfico y regla de Cramer](https://drive.google.com/file/d/1y-gKkCfe35fADp1LG5p6qyQr05wJ_EdH/view?usp=sharing)
 - [Sesión 4: ]
 ## Unidad 2
 ## Unidad 3

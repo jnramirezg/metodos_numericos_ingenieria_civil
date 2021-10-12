@@ -27,12 +27,13 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - [10-costo_computacional_metodos.py](/codigo/10-costo_computacional_metodos.py)
 - [11-Cholesky.py](/codigo/11-Cholesky.py)
 ### Preguntas de clase
--
+- [Clase 2 - Cuestionario 1](/docs/preguntas_clase_2021/2-METNUM20211006-1.pdf)
+- [Clase 2 - Cuestionario 2](/docs/preguntas_clase_2021/3-METNUM20211006-2.pdf)
 
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/file/d/1LPwNGE2ysVUh7exD6VE34jKmXAEzXphq/view?usp=sharing)
 - [Sesión 2: ]
-- [Sesión 3: ]
+- [Sesión 3: Método gráfico y regla de Cramer](https://drive.google.com/file/d/1y-gKkCfe35fADp1LG5p6qyQr05wJ_EdH/view?usp=sharing)
 - [Sesión 4: ]
 ## Unidad 2
 ## Unidad 3

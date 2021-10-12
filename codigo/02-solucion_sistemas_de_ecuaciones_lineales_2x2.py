@@ -29,7 +29,9 @@ def sol_2x2_mejorado(a, b, c, d, e, f):
         ax + by = c
         dx + ey = f
     '''
+    # Condición del denominador.
     if (a*e - b*d) == 0:
+        # Condición del numerador.
         if (-b*f + c*e) == 0 and (a*f - c*d) == 0:
             solucion = 'Infinitas soluciones'
         else:

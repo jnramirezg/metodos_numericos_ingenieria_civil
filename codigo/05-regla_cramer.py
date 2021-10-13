@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Solución de sistemas de ecuaciones lineales por la regla de Cramer.
+# Solución con lista de listas.
 # %%Información
 '''
 Universidad Nacional de Colombia
@@ -78,6 +79,7 @@ def sol_cramer(A, B):
         A: coeficientes constantes, se ingresa como una lista de listas.
         X: incógnitas
         B: constantes, se ingresa como una lista.
+        La solución se obtiene usando la regla de Cramer.
     '''
     # Se consideran las posibles causas de error.
     if len(A) != len(A[0]):

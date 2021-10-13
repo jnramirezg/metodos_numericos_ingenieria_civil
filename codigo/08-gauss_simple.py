@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Solución de sistemas de ecuaciones lineales por Gauss simple.
+# Lista de listas, pivote parcial y reorganización de ceros.
 # %%Información
 '''
 Universidad Nacional de Colombia
@@ -15,7 +16,6 @@ Autor: Juan Nicolás Ramírez Giraldo (jnramirezg@unal.edu.co)
 Referencias:
 1. Chapra, S. C. & Canale, R. P. (2015). Métodos Numéricos para ingenieros 
    (7ª ed.). México D.F.: Mc Graw Hill.
-2. El ejemplo
     
 '''
 

@@ -20,7 +20,10 @@ Referencias:
 '''
 
 # %%Importación de librerías
+import numpy as np
 
+
+# %%Definición de funciones
 
 def np_gauss_jordan(A, B):
     '''
@@ -31,9 +34,9 @@ def np_gauss_jordan(A, B):
         B: constantes, se ingresa como una lista.
         La solución se obtiene con la técnica Gauss-Jordan.
     '''
-    import numpy as np  # Esto es por si se olvida llamar antes.
-    A = np.array(A)
-    B = np.array([B]).T
+    import numpy as np
+    A = np.array(A, dtype=float)
+    B = np.array([B], dtype=float).T
     
     S = np.append(A, B, axis=1)  # Se crea la matriz aumentada.
     m = S.shape[0]               # Número de filas o de soluciones.
@@ -80,6 +83,7 @@ A3 = [
                        ]
 
 B3 = [7.85, -19.3, 71.4]
+
 
 # Uso de la función principal.
 sol_1 = np_gauss_jordan(A1, B1)

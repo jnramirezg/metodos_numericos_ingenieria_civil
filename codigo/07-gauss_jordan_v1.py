@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Solución de sistemas de ecuaciones lineales por Gauss simple.
-# Lista de listas, pivote parcial y reorganización de ceros.
+# Solución de sistemas de ecuaciones lineales por Gauss-Jordan.
+# Módulo numpy.
 # %%Información
 '''
 Universidad Nacional de Colombia
@@ -34,7 +34,6 @@ def np_gauss_jordan(A, B):
         B: constantes, se ingresa como una lista.
         La solución se obtiene con la técnica Gauss-Jordan.
     '''
-    import numpy as np
     A = np.array(A, dtype=float)
     B = np.array([B], dtype=float).T
     

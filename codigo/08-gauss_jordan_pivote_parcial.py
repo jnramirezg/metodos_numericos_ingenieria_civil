@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Solución de sistemas de ecuaciones lineales por Gauss simple.
-# Lista de listas, pivote parcial y reorganización de ceros.
+# Solución de sistemas de ecuaciones lineales por Gauss-Jordan mejorado.
+# Módulo numpy, pivoteo parcial y reorganización de ceros.
 # %%Información
 '''
 Universidad Nacional de Colombia
@@ -33,6 +33,8 @@ def np_gauss_jordan(A, B):
         X: incógnitas, sol.
         B: constantes, se ingresa como una lista.
         La solución se obtiene con la técnica Gauss-Jordan.
+        
+        Incluye pivoteo parcial y detección de sistemas singulares.
     '''
     A = np.array(A, dtype=float)
     B = np.array([B], dtype=float).T
@@ -143,6 +145,5 @@ print('\nLa solución del ejemplo pivoteo parcial 1 es:')
 print(sol_4)
 print('\nLa solución del ejemplo pivoteo parcial 2 es:')
 print(sol_5)
-
 
 # Fin del programa.

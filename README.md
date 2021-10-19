@@ -17,5 +17,3 @@ _"Cum cogitaveris quot te antecedant, respice quot sequantur"_ Séneca
 - [Calificaciones 2021-2s](/docs/calificacion_2021-2s.md)
 - [Talleres 2021-2s](/docs/talleres_2021-2s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
-
-Hola

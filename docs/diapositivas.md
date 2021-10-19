@@ -9,9 +9,10 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ### Apuntes
 #### Noteboooks
 - Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](https://drive.google.com/open?id=1iVhj18i_A4gfeTm_AvHAtrfNfdYMypxx&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))
-- Jupyter: Sistemas de ecuaciones pequeños([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_2-sistema_ecuaciones_peque%C3%B1os.ipynb)/[descargar](https://drive.google.com/file/d/1ge8J9MEvkZdCJjGBns6R9DR6d-bNwist/view?usp=sharing). ([Archivo pdf](/diapositivas/1_2-sistema_ecuaciones_pequeños.pdf))
-- Jupyter: Métodos de Gauss y Gauss-Jordan ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-0-metodos_gauss_gauss_jordan.ipynb)/[descargar](https://drive.google.com/file/d/15RzVE24FUxUAYVovnaGNj4p-SLu_Z7sF/view?usp=sharing). ([Archivo pdf](/diapositivas/1_3-0-metodos_gauss_gauss_jordan.pdf))
-
+- Jupyter: Sistemas de ecuaciones pequeños([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_2-sistema_ecuaciones_peque%C3%B1os.ipynb)/[descargar](https://drive.google.com/file/d/1ge8J9MEvkZdCJjGBns6R9DR6d-bNwist/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_2-sistema_ecuaciones_pequeños.pdf))
+- Jupyter: Métodos de Gauss y Gauss-Jordan ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-0-metodos_gauss_gauss_jordan.ipynb)/[descargar](https://drive.google.com/file/d/15RzVE24FUxUAYVovnaGNj4p-SLu_Z7sF/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_3-0-metodos_gauss_gauss_jordan.pdf))
+- Jupyter: Sistemas singulares y pivoteo parcial ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.ipynb)/[descargar](https://drive.google.com/file/d/17MgFII5jVxyzPNI3PCtZsg9VOuKKmy3Z/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.pdf))
+- 
 #### Archivos adicionales
 - Comparación operaciones básicas Numpy y Sympy ([ver](/diapositivas/1_1_1_comparacion_numpy_sympy.pdf))
 

@@ -13,7 +13,10 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - Jupyter: Métodos de Gauss y Gauss-Jordan ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-0-metodos_gauss_gauss_jordan.ipynb)/[descargar](https://drive.google.com/file/d/15RzVE24FUxUAYVovnaGNj4p-SLu_Z7sF/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_3-0-metodos_gauss_gauss_jordan.pdf))
 - Jupyter: Sistemas singulares y pivoteo parcial ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.ipynb)/[descargar](https://drive.google.com/file/d/17MgFII5jVxyzPNI3PCtZsg9VOuKKmy3Z/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.pdf))
 - Jupyter: Descomposición LU y Cholesky ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_4-descomposicion_LU_cholesky.ipynb)/[descargar](https://drive.google.com/file/d/17KwYYa2bVEOoH1IbqgW66cf3880uv4C5/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_4-descomposicion_LU_cholesky.pdf))
-- 
+
+#### Diapositivas
+- [Sistemas singulares y pivoteo parcial](/diapositivas/presentaciones/1_3-1-gauss_gauss_jordan-pivoteo.pdf)
+- [Descomposición LU y Cholesky](/diapositivas/presentaciones/1_4-Des_LU_Des_Cholesky.pdf)
 #### Archivos adicionales
 - Comparación operaciones básicas Numpy y Sympy ([ver](/diapositivas/1_1_1_comparacion_numpy_sympy.pdf))
 

@@ -58,7 +58,7 @@ def np_inversa_LU(A):
         
         Devuelve Ainv como np.array()
     '''
-    A = np.array(A, dtype=float)
+    A = np.array(A, dtype=float)  # Se convierte A a un np.array
 
     L, U = np_descomposicion_LU(A)  # Descomposición LU de A.
     m = len(L)                      # Tamaño del sistema.

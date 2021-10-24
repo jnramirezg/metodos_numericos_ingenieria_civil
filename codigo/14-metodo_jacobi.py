@@ -15,7 +15,7 @@ Autor: Juan Nicolás Ramírez Giraldo (jnramirezg@unal.edu.co)
 Engineering. Springer.
 
 '''
-# Definición de funciones.
+# %%Definición de funciones.
 
 def matriz_D(A):
     '''
@@ -206,7 +206,6 @@ print(sol_2)
 print('\nLa solución del ejemplo 3 es:')
 sol_3 = metodo_jacobi(A3, B3)
 print(sol_3)
-
 
 
 # Fin del programa.

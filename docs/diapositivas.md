@@ -41,12 +41,14 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - [Clase 2 - Cuestionario 2](/docs/preguntas_clase_2021/3-METNUM20211006-2.pdf)
 - [Clase 3 - Cuestionario 3](/docs/preguntas_clase_2021/4-METNUM20211011-3.pdf)
 - [Clase 4 - Cuestionario 4](/docs/preguntas_clase_2021/5-METNUM20211013-4.pdf)
+- [Clase 5 - Cuestionario 5](/docs/preguntas_clase_2021/5-METNUM20211025-5.pdf)
 
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/file/d/1LPwNGE2ysVUh7exD6VE34jKmXAEzXphq/view?usp=sharing)
 - [Sesión 2: Operaciones con matrices](https://drive.google.com/file/d/18D7NkTu-C5LhBFBmCvvlDj3-six4LdbZ/view?usp=sharing)
 - [Sesión 3: Método gráfico y regla de Cramer](https://drive.google.com/file/d/1y-gKkCfe35fADp1LG5p6qyQr05wJ_EdH/view?usp=sharing)
 - [Sesión 4: Métodos de Gauss - Gauss Jordan ](https://drive.google.com/file/d/1IiVGpFp9fEtYPa0GPzbfgSkFZHRMYOTQ/view?usp=sharing)
+- [Sesión 5: Pivoteo parcial - desc. LU ](https://drive.google.com/file/d/18cXW48KnRYRA4KhUeljR2qeSirgGY31L/view?usp=sharing)
 ## Unidad 2
 ## Unidad 3
 ## Unidad 4

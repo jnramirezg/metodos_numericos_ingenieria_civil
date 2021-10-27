@@ -113,7 +113,7 @@ B5 = [0, 0, 4]
 sol_5 = np_metodo_jacobi(A5, B5)
 
 
-# Ejemplo 6.
+# Ejemplo 7.
 # Las soluciones son 1/3 y 2/3
 A6 = [[0.00000000000000000000000003, 3.0000],[1.0000, 1.0000]]
 B6 = [ 2.00000000000000000000000001, 1.0000] 
@@ -121,7 +121,7 @@ B6 = [ 2.00000000000000000000000001, 1.0000]
 sol_6 = np_metodo_jacobi(A6, B6)
 
 
-# Ejemplo 7.
+# Ejemplo 8.
 # Las soluciones son 1/3 y 2/3
 A7 = [[                      1.0000, 1.0000],
       [0.00000000000000000000000003, 3.0000]]
@@ -142,9 +142,9 @@ print('\nLa solución del ejemplo 4 es:')
 print(sol_4)
 print('\nLa solución del ejemplo 5 es:')
 print(sol_5)
-print('\nLa solución del ejemplo 6 es:')
-print(sol_6)
 print('\nLa solución del ejemplo 7 es:')
+print(sol_6)
+print('\nLa solución del ejemplo 8 es:')
 print(sol_7)
 
 

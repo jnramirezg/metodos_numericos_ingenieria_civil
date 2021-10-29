@@ -16,9 +16,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - Jupyter: Métodos iterativos ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_5-metodos_iterativos.ipynb)/[descargar](https://drive.google.com/file/d/195NZPIviFHKROPBeVJPN2Rhy_rKcrfM7/view?usp=sharing)).([Archivo pdf](/diapositivas/1_5-metodos_iterativos.pdf))
 
 #### Diapositivas
-- Sistemas singulares y pivoteo parcial([corta](/diapositivas/presentaciones/S/S1_3-1-gauss_gauss_jordan-pivoteo.pdf)/[dinámica](/diapositivas/presentaciones/1_3-1-gauss_gauss_jordan-pivoteo.pdf))
-- [Descomposición LU y Cholesky](/diapositivas/presentaciones/S/S1_4-Des_LU_Des_Cholesky.pdf)
-- [Método iterativo Jacobi](/diapositivas/presentaciones/S/S1_5-metodos_iterativos.pdf )
+- Sistemas singulares y pivoteo parcial ([corta](/diapositivas/presentaciones/S/S1_3-1-gauss_gauss_jordan-pivoteo.pdf)/[dinámica](/diapositivas/presentaciones/1_3-1-gauss_gauss_jordan-pivoteo.pdf))
+- Descomposición LU y Cholesky ([corta](/diapositivas/presentaciones/S/S1_4-Des_LU_Des_Cholesky.pdf)/[dinámica](/diapositivas/presentaciones/1_4-Des_LU_Des_Cholesky.pdf))
+- Método iterativo Jacobi ([corta](/diapositivas/presentaciones/S/S1_4-Des_LU_Des_Cholesky.pdf)/[dinámica](/diapositivas/presentaciones/1_5-metodos_iterativos.pdf))
 #### Archivos adicionales
 - Comparación operaciones básicas Numpy y Sympy ([ver](/diapositivas/1_1_1_comparacion_numpy_sympy.pdf))
 

@@ -15,8 +15,9 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - Jupyter: Descomposición LU y Cholesky ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_4-descomposicion_LU_cholesky.ipynb)/[descargar](https://drive.google.com/file/d/17KwYYa2bVEOoH1IbqgW66cf3880uv4C5/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_4-descomposicion_LU_cholesky.pdf))
 
 #### Diapositivas
-- [Sistemas singulares y pivoteo parcial](/diapositivas/presentaciones/1_3-1-gauss_gauss_jordan-pivoteo.pdf)
-- [Descomposición LU y Cholesky](/diapositivas/presentaciones/1_4-Des_LU_Des_Cholesky.pdf)
+- [Sistemas singulares y pivoteo parcial](/diapositivas/presentaciones/S/S1_3-1-gauss_gauss_jordan-pivoteo.pdf)
+- [Descomposición LU y Cholesky](/diapositivas/presentaciones/S/S1_4-Des_LU_Des_Cholesky.pdf)
+- [Método iterativo Jacobi](/diapositivas/presentaciones/S/S1_5-metodos_iterativos.pdf )
 #### Archivos adicionales
 - Comparación operaciones básicas Numpy y Sympy ([ver](/diapositivas/1_1_1_comparacion_numpy_sympy.pdf))
 

@@ -37,9 +37,9 @@
 - [Clase 2 - Cuestionario 2](/docs/preguntas_clase_2021/3-METNUM20211006-2.pdf)
 - [Clase 3 - Cuestionario 3](/docs/preguntas_clase_2021/4-METNUM20211011-3.pdf)
 - [Clase 4 - Cuestionario 4](/docs/preguntas_clase_2021/5-METNUM20211013-4.pdf)
-- [Clase 5 - Cuestionario 5](/docs/preguntas_clase_2021/5-METNUM20211025-5.pdf)
-- [Clase 6 - Cuestionario 6](/docs/preguntas_clase_2021/6-METNUM20211027-6.pdf)
-- [Clase 7 - Cuestionario 7](/docs/preguntas_clase_2021/7-METNUM20211027-7.pdf)
+- [Clase 5 - Cuestionario 5](/docs/preguntas_clase_2021/6-METNUM20211025-5.pdf)
+- [Clase 6 - Cuestionario 6](/docs/preguntas_clase_2021/7-METNUM20211027-6.pdf)
+- [Clase 7 - Cuestionario 7](/docs/preguntas_clase_2021/8-METNUM20211027-7.pdf)
 
 ### Vídeos de clase
 - [Sesión 1: Introducción y matrices en Python](https://drive.google.com/file/d/1LPwNGE2ysVUh7exD6VE34jKmXAEzXphq/view?usp=sharing)

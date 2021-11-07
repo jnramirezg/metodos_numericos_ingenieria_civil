@@ -14,7 +14,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - Jupyter: Sistemas singulares y pivoteo parcial ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.ipynb)/[descargar](https://drive.google.com/file/d/17MgFII5jVxyzPNI3PCtZsg9VOuKKmy3Z/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_3-1-gauss_gauss_jordan-pivoteo.pdf))
 - Jupyter: Descomposición LU y Cholesky ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_4-descomposicion_LU_cholesky.ipynb)/[descargar](https://drive.google.com/file/d/17KwYYa2bVEOoH1IbqgW66cf3880uv4C5/view?usp=sharing)). ([Archivo pdf](/diapositivas/1_4-descomposicion_LU_cholesky.pdf))
 - Jupyter: Métodos iterativos ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_5-metodos_iterativos.ipynb)/[descargar](https://drive.google.com/file/d/195NZPIviFHKROPBeVJPN2Rhy_rKcrfM7/view?usp=sharing)).([Archivo pdf](/diapositivas/1_5-metodos_iterativos.pdf))
-- Jupyter: Sistemas en Python: Comandos finales ([ver]()/[descargar]()).([Archivo pdf]())
+- Jupyter: Sistemas en Python: Comandos finales ([ver](https://nbviewer.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_6-sistemas_en_python.ipynb)/[descargar](https://drive.google.com/file/d/1Bfg3Zf3pHHtULGvlNC309BbMoZ4uD1AD/view?usp=sharing)).([Archivo pdf](/diapositivas/1_6-sistemas_en_python.pdf))
 
 #### Diapositivas
 - Sistemas singulares y pivoteo parcial ([corta](/diapositivas/presentaciones/S/S1_3-1-gauss_gauss_jordan-pivoteo.pdf)/[dinámica](/diapositivas/presentaciones/1_3-1-gauss_gauss_jordan-pivoteo.pdf))

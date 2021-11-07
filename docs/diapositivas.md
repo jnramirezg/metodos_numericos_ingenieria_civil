@@ -5,7 +5,7 @@ En esta pestaña estará disponible todo el material de clase actualizado.
 Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. También a través del [nbviewer](https://nbviewer.jupyter.org/)
 
 ## 0- Programa calendario 2021-2s ([ver](/diapositivas/0-programa_calendario_2021-2s.pdf))
-## Unidad 1: sistemas de ecuaciones lineales
+## Unidad 1: sistemas de ecuaciones lineales ([ver](/docs/diapositivas_unidad_1.md))
 ### Apuntes
 #### Noteboooks
 - Jupyter: Matrices, modificación y operaciones([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/1_1-matrices_operaciones.ipynb)/[descargar](https://drive.google.com/open?id=1iVhj18i_A4gfeTm_AvHAtrfNfdYMypxx&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)). ([Archivo pfd](/diapositivas/1_1-matrices_operaciones.pdf))

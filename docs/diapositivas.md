@@ -55,7 +55,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 - [Sesión 4: Métodos de Gauss - Gauss Jordan ](https://drive.google.com/file/d/1IiVGpFp9fEtYPa0GPzbfgSkFZHRMYOTQ/view?usp=sharing)
 - [Sesión 5: Pivoteo parcial - desc. LU ](https://drive.google.com/file/d/18cXW48KnRYRA4KhUeljR2qeSirgGY31L/view?usp=sharing)
 - [Sesión 6: Desc. Cholesky - Métodos iterativos](https://drive.google.com/file/d/18tatvkbzM9HneONhS80FFKI2D7h-ip_4/view?usp=sharing)
-- [Sesión 7.1: Sistemas de Ecs. en Python]()
+- [Sesión 7.1: Sistemas de Ecs. en Python](https://drive.google.com/file/d/19Vg4RCCfNpmSlspYo92SUcaboFBsyp-V/view?usp=sharing)
 
 ## Unidad 2: interpolación
 ### Apuntes
@@ -64,6 +64,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ### Código
 ### Preguntas de clase
 ### Vídeos de clase
+- [Sesión 7.2: Interpolación polinómica](https://drive.google.com/file/d/19Vjzftfqs__KYe2tbEq1qJQLkB8eNHi9/view?usp=sharing)
 
 ## Unidad 3
 ## Unidad 4

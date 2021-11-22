@@ -50,7 +50,7 @@ plt.ylim(0, 150)
 
 im = ax.imshow(np.linspace(minima, maxima, 100)*np.ones((100,100)), cmap='viridis')
 ax.set_aspect('equal', adjustable='box')
-ax.set_title('NonUniformImage class')
+#ax.set_title('NonUniformImage class')
 fig.colorbar(im)
 plt.show()
 

@@ -22,7 +22,7 @@ estacion = np.array([[ 10,  30],
 PPT = np.array([60, 100, 40, 120])
 
 
-res = 20.1
+res = 1.01
 x = np.arange(0, 140, res)
 y = np.arange(0, 140, res)
 
@@ -57,7 +57,7 @@ ax.add_image(im)
 plt.xlim(0,150)
 plt.ylim(0,150)
 ax.set_aspect('equal', adjustable='box')
-ax.set_title('NonUniformImage class')
+#ax.set_title('NonUniformImage class')
 
 plt.colorbar(im, ax=ax)
 

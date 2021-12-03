@@ -3,7 +3,9 @@
 ### Archivos adicionales
 ### Código
 ### Preguntas de clase
-- [Clase 8 - Cuestionario 1](/docs/preguntas_clase_2021/9-METNUM20211108-8.pdf)
+- [Clase 8 - Cuestionario 9](/docs/preguntas_clase_2021/9-METNUM20211108-8.pdf)
+- [Clase 9 - Cuestionario 10](/docs/preguntas_clase_2021/10-METNUM20211108-9.pdf)
+- 
 ### Vídeos de clase
 - [Sesión 7.2: Interpolación polinómica](https://drive.google.com/file/d/19Vjzftfqs__KYe2tbEq1qJQLkB8eNHi9/view?usp=sharing)
 - [Sesión 8: Interpolación polinómica Newton y Lagrange](https://drive.google.com/file/d/1E2e_lhVS-IXNyWmfMz3uMswfe4OcllHS/view?usp=sharing)

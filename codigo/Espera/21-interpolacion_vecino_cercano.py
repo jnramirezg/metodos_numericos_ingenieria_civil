@@ -22,7 +22,11 @@ x_map = np.ones((7,7))*x
 y_map = (np.ones((7,7))*y).T
 
 fig, ax = plt.subplots()
-im = NonUniformImage(ax, interpolation='nearest', extent=(0, 7, 0, 7),
+# Acá también se puede usar 'bilinear''nearest', 'bilinear',
+    # 'bicubic', 'spline16', 'spline36', 'hanning', 'hamming', 'hermite',
+    # 'kaiser', 'quadric', 'catrom', 'gaussian', 'bessel', 'mitchell',
+    # 'sinc', 'lanczos', 'blackman'.
+im = NonUniformImage(ax, interpolation='bilinear', extent=(0, 7, 0, 7),
                      cmap='viridis')
 im.set_data(x, y, z)
 ax.add_image(im)

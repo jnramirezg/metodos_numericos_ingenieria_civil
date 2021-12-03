@@ -14,12 +14,13 @@ X=0
 Y=1
 
 estacion = np.array([[ 10,  30],
-                  [ 30, 120],
-                  [ 50,  10],
-                  [120,  40],
-                  ])
+                     [ 30, 120],
+                     [ 50,  10],
+                     [120,  40],
+                     [80, 80]
+                               ])
 
-PPT = np.array([60, 100, 40, 120])
+PPT = np.array([60, 100, 40, 100, 1000])
 
 
 res = 1.01
@@ -40,12 +41,6 @@ PPT_i  = np.zeros((n_cuad, n_cuad))
 for i in range(len(estacion)):
     dist = ((x_map-estacion[i][X])**2 +(y_map-estacion[i][Y])**2)**0.5
     PPT_i += PPT[i]/(dist**2*w )
-
-
-# while True:
-#     idx = np.where(PPT_i==PPT_i.max())[0][0]
-#     idy = np.where(PPT_i==PPT_i.max())[1][0]
-#     PPT_i[2,6]=120
 
 fig, ax = plt.subplots()
 im = NonUniformImage(ax, interpolation='nearest', extent=(0, 140, 0, 140),

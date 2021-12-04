@@ -7,7 +7,7 @@ Descargándolo al equipo y abriéndolo con Jupyter Notebook o JupyterLab. Tambi�
 ## 0- Programa calendario 2021-2s ([ver](/diapositivas/0-programa_calendario_2021-2s.pdf))
 ## Unidad 1: sistemas de ecuaciones lineales ([ver](/docs/diapositivas_unidad_1.md))
 ## Unidad 2: interpolación ([ver](/docs/diapositivas_unidad_2.md))
-## Unidad 3: raíces y sistemas no lineales (/docs/diapositivas_unidad_3.md))
+## Unidad 3: raíces y sistemas no lineales [ver](/docs/diapositivas_unidad_3.md))
 ## Unidad 4
 ## Unidad 5
 ## Unidad 6

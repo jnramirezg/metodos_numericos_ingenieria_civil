@@ -1,6 +1,7 @@
 ### Apuntes
 #### Noteboooks
-- Jupyter: Interpolación Polinómica ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_1-interpolacion_polinomica.ipynb)/[descargar](https://drive.google.com/open?id=1iVhj18i_A4gfeTm_AvHAtrfNfdYMypxx&authuser=jnramirezg%40unal.edu.co&usp=drive_fs)).
+- Jupyter: Interpolación Polinómica ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_1-interpolacion_polinomica.ipynb)/[descargar](
+https://drive.google.com/file/d/1DoLQSyQmYbxCAUv4IJUnSho62zAbs3dn/view?usp=sharing)).
 ### Archivos adicionales
 ### Código
 ### Preguntas de clase

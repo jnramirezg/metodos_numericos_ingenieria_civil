@@ -69,4 +69,4 @@ plt.plot(xp, yp, 'k.')
 plt.show()
 
 # Fin del programa.
-
+    

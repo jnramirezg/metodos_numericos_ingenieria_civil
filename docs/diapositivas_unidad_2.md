@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1DoLQSyQmYbxCAUv4IJUnSho62zAbs3dn/view?usp=shari
 https://drive.google.com/file/d/1HVnl7UD9sA2bRnrO39ROYJibxlfuxPv-/view?usp=sharing)).
 - Jupyter: Interpolación por vecino más cercano y distancia inversa ponderada ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_4-vecinos_idw.ipynb)/[descargar](
 https://drive.google.com/file/d/1HUYR78cCXR2XCmB_3rZo3Zc3BLLYvHBU/view?usp=sharing)).
-- Jupyter: Interpolación por vecino más cercano y distancia inversa ponderada ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_5-interpolacion_python.ipynb)/[descargar](
+- Jupyter: Interpolación en Python: comandos finales ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_5-interpolacion_python.ipynb)/[descargar](
 https://drive.google.com/file/d/1HTzNxSSCRJDa0KfuoAAl4vm_6oqqtugm/view?usp=sharing)).
 
 ### Archivos adicionales

@@ -9,7 +9,6 @@ https://drive.google.com/file/d/1HUYR78cCXR2XCmB_3rZo3Zc3BLLYvHBU/view?usp=shari
 - Jupyter: Interpolación en Python: comandos finales ([ver](https://nbviewer.jupyter.org/github/jnramirezg/metodos_numericos_ingenieria_civil/blob/main/diapositivas/2_5-interpolacion_python.ipynb)/[descargar](
 https://drive.google.com/file/d/1HTzNxSSCRJDa0KfuoAAl4vm_6oqqtugm/view?usp=sharing)).
 
-### Archivos adicionales
 ### Código
 ### Preguntas de clase
 - [Clase 8 - Cuestionario 9](/docs/preguntas_clase_2021/9-METNUM20211108-8.pdf)
